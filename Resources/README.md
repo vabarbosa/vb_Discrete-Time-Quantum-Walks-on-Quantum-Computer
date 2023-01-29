@@ -4,7 +4,7 @@ This file provides access and links to all the files that has been referred to f
 
 The [PDFs](https://github.com/Abhay-Suresh/Discrete-Time-Quantum-Walks-on-Quantum-Computer/tree/main/Resources/PDFs) have also been provided for the same, but please note no copyright is intended.
 
-##Software used
+## Software used
 1. [Qiskit](qiskit.org) on cloud using [IBM Quantum composer and IBM Quantum lab](https://quantum-computing.ibm.com/)
 
 ## Reference papers
