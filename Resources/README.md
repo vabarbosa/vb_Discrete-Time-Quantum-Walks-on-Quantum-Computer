@@ -1,6 +1,8 @@
 # Resources
 
-This file provides access and links to all the files that has been referred to for the mini project:
+This file provides access and links to all the files that has been referred to for the mini project.
+
+The [PDFs](https://github.com/Abhay-Suresh/Discrete-Time-Quantum-Walks-on-Quantum-Computer/tree/main/Resources/PDFs) have also been provided for the same, but please note no copyright is intended.
 
 ## Reference papers
 1. [One-dimensional discrete-time quantum walks with general coin](https://arxiv.org/abs/2102.07207)
@@ -12,3 +14,5 @@ This file provides access and links to all the files that has been referred to f
 
 ## Video Lectures 
 1. [Quantum Machine Learning MOOC](https://www.youtube.com/playlist?list=PLmRxgFnCIhaMgvot-Xuym_hn69lmzIokg) on Youtube
+
+
