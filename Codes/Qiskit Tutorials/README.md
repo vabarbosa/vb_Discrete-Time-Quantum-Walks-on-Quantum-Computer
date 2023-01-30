@@ -1,6 +1,6 @@
 # Tutorial Codes
 
-All the codes provided in the qisket textbook will be implemented on google colab and linked over here along with the .ipynb files of the same
+All the codes provided in the qiskit textbook will be implemented on google colab and linked over here along with the .ipynb files of the same
 
 The codes will also be implemented on IBM Quantum lab and can be found [here](https://lab.quantum-computing.ibm.com/user/63c5a2bffd60a58d9d481f99/lab/workspaces/auto-Z/tree/Qiskit%20Implementations)
 
